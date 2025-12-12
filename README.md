@@ -24,3 +24,9 @@ To do that follow these steps:
     - Make sure the path to `annotations.csv` in your notebook matches its location in the Colab environment.
 
 6. Once the data is uploaded, you can run the notebook cells as usual.
+
+## Project files
+
+The full project discription can be found in the Fair Machine Learning (Final Project Proposal).
+
+The bulk of the project content can be summed up by the Project_PDFs if you don't wish to load the .ipynb files. There is also a .html format as a back up to view the code in a detailed manner.
